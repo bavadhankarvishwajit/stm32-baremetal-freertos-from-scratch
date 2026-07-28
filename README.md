@@ -199,5 +199,3 @@ It focuses on understanding:
 **Vishwajit Mahesh Bavadhankar**
 
 Embedded Systems Engineer | IoT Engineer | Firmware Developer
-
-Learning Embedded Systems from First Principles.
